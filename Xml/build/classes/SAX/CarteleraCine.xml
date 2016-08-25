@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1"?> 
+<Peliculas> 
+	<Pelicula codigo='1' titulo='Lo que el viento se llevó' director='Victor Fleming' actores='Clark Gable, Vivien Leigh, Leslie Howard'/> 
+	<Pelicula codigo='2' titulo='Los Otros' director='Alejandro Amenabar' actores='Nicole Kidman'/> 
+	<Pelicula codigo="5" titulo="Malena" director="Giuseppe Tornatore" actores="Monica Bellucci, Giuseppe Sulfaro"/> 
+</Peliculas>

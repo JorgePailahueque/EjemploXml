@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?> 
+<Cartelera> 
+	<Cine codigo='1' nombre='Coliseo Java' direccion='Avda. Abaro' poblacion='Portugalete'> 
+		<Pelicula codigo='1' titulo='Lo que el viento se llevó'  director= 'Victor Fleming ' actores= 'Clark Gable, Vivien Leigh, Leslie Howard '> 
+			<Sesion>16:00</Sesion> 
+			<Sesion>19:30</Sesion> 
+			<Sesion>22:00</Sesion> 
+		</Pelicula> 
+		<Pelicula codigo='5' titulo='Malena' director='Giuseppe Tornatore' actores='Monica Bellucci, Giuseppe Sulfaro'> 
+			<Sesion>16:30</Sesion> 
+			<Sesion>19:00</Sesion> 
+		</Pelicula> </Cine>
+</Cartelera>
